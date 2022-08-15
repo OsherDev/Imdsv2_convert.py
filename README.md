@@ -1,5 +1,5 @@
 # Imdsv2_convert.py
-Move all the instances used metadata version 2 
+Move all the instances to use metadata version 2.
 
 
 
